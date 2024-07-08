@@ -19,11 +19,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Links
-
-- Live Site URL: [https://gen-advice-app.netlify.app](https://gen-advice-app.netlify.app)
-- Solution URL: [https://github.com/gbopola/advice-generator-app](https://github.com/gbopola/advice-generator-app)
-
 ### Built with
 
 - Semantic HTML5 markup
